@@ -1,0 +1,18 @@
+# Ignore Unity-specific folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
+*.userprefs
+*.pidb
+*.suo
+*.apk
+*.unitypackage
+*.log
